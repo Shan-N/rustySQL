@@ -1,0 +1,36 @@
+{
+  "tables": {
+    "users": {
+      "name": "users",
+      "columns": [
+        "id",
+        "name",
+        "age"
+      ],
+      "rows": [
+        {
+          "age": "19",
+          "id": "1",
+          "name": "Shantanu"
+        }
+      ]
+    },
+    "profiles": {
+      "name": "profiles",
+      "columns": [
+        "id",
+        "name",
+        "age",
+        "skills"
+      ],
+      "rows": [
+        {
+          "id": "1",
+          "name": "Shantanu",
+          "age": "19",
+          "skills": "Rust"
+        }
+      ]
+    }
+  }
+}
